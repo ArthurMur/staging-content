@@ -1,45 +1,77 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/ArthurMur/content-schema/main/schemas/lesson.schema.json
 id: "clrn5v4ds0000bjig6dl53am4"
-title: "Продвинутое программирование на Python"
+title: "Урок 1"
+shortDescription: "Короткое описание"
 blocks:
   - type: "text"
-    id: "clrn5v4ds0001bjigeohw9tuf"
+    id: "test-course-1_lesson-1_block-1"
     text: |
 
-      <img width="50%" src="https://s3.timeweb.com/132514fc-images-staging/content/1 0 (7).png"/>
+      <NextImage width="500" height="500" src="https://s3.timeweb.com/132514fc-images-staging/content/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg"/>
 
       ## Что будем сегодня изучать
-
-      Вопрос открытый.
-      Были бы мы классными поциками, то играли бы в прядки, а так рубим бабосики
-
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
   - type: "video"
     id: "clrn5v4ds0002bjig9svn0n5s"
-    url: "https://example.com/video/python-advanced"
+    url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
   - type: "text"
-    id: "clrn5v4ds0003bjig6zut4e8c"
+    id: "test-course-1_lesson-1_block-1"
     text: |
-      ## Введение в продвинутое программирование на Python
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
 
-      В этом разделе мы погрузимся в продвинутые темы программирования на Python, включая:
-      - ООП (Объектно-ориентированное программирование)
-      - Работа с базами данных
-      - Многопоточность и асинхронное программирование
+  - type: "text"
+    id: "test-course-1_lesson-1_block-2"
+    text: |
+      <NextImage width="500" height="500" src="https://s3.timeweb.com/132514fc-images-staging/content/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg"/>
 
-  - type: "question"
-    id: "clrn5v4ds0004bjig1ndldgl0"
-    answerOptions:
-      - text: "Какие паттерны проектирования наиболее часто используются в Python?"
-        id: "clrn5v4ds0005bjigd0sf2ih3"
-        isRight: false
-      - text: "Что такое список в Python и как он используется?"
-        id: "clrn5v4ds0006bjig7s0z3n7w"
-        isRight: true
-    explanation: |
-      ### Объяснение
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
 
-      Этот тест поможет закрепить знания по продвинутым темам Python.
-      Каждый вопрос направлен на проверку понимания ключевых концепций.
-    successMessage: |
-      🎉 **Отлично! Вы успешно прошли тест по продвинутым темам Python.**
+  - type: "text"
+    id: "test-course-1_lesson-1_block-3"
+    text: |
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.

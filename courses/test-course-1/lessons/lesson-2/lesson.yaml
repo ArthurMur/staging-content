@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/ArthurMur/content-schema/main/schemas/lesson.schema.json
+id: "test-course-1_lesson-2"
+title: "Урок с видео"
+shortDescription: |
+  Lorem ipsum dolor sit amet, 
+  consectetur adipiscing elit. Nunc facilisis turpis vitae 
+  sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+  pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+  consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+  luctus ligula sit libero.
+
+blocks:
+  - type: "text"
+    id: "test-course-1_lesson-2_block-1"
+    text: |
+
+      <Player url="https://www.youtube.com/watch?v=dQw4w9WgXcQ" />
+
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
+
+  - type: "text"
+    id: "test-course-1_lesson-2_block-2"
+    text: |
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
+
+  - type: "text"
+    id: "test-course-1_lesson-2_block-3"
+    text: |
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.

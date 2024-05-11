@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/ArthurMur/content-schema/main/schemas/lesson.schema.json
+id: "test-course-3_test-lesson"
+title: "Продвинутое программирование на Python"
+blocks:
+  - type: "text"
+    id: "test-course-3_test-lesson_block-1"
+    text: |
+      <NextImage width="500" height="500" src="https://s3.timeweb.com/132514fc-images-staging/content/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg"/>
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.
+  - type: "text"
+    id: "test-course-3_test-lesson_block-2"
+    text: |
+      Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit. Nunc facilisis turpis vitae 
+      sollicitudin interdum. Quisque nibh nibh, semper ut libero id, 
+      pharetra mollis nunc. Nunc iaculis dictum erat, et maximus massa 
+      consectetur elementum. Fusce eget ultrices felis. Suspendisse 
+      luctus ligula sit libero.

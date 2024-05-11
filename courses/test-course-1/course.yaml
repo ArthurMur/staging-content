@@ -1,6 +1,8 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/ArthurMur/content-schema/main/schemas/course.schema.json
-id: "clte2bgyk0000esfr56cl0zig"
+id: "test-course-1"
+thumbnail: "https://uploads.sitepoint.com/wp-content/uploads/2017/04/1493235373large_react_apps_A-01.png"
 title: "React: от новичка до профессионала"
+image: "https://s3.timeweb.com/132514fc-images-staging/content/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg"
 description: |
   ![react](https://s3.timeweb.cloud/1341a755-f72429da-626a-4aef-9f5f-a5e0679ad9cc/content/React_Logo_SVG.svg)
   ## Описание курса:
@@ -26,7 +28,7 @@ description: |
 
   - **Дополнительные возможности**
     - Маршрутизация в React с помощью React Router
-    - Автентификация и авторизация в приложениях React
+    - Аутентификация и авторизация в приложениях React
     - Тестирование React-приложений
 
   - **Проектное задание**
@@ -34,5 +36,14 @@ description: |
 
   Этот курс подходит как новичкам, так и опытным разработчикам, желающим улучшить свои навыки работы с React. После прохождения курса вы сможете создавать быстрые и эффективные приложения, используя современные инструменты и подходы.
 
+shortDescription: |
+  ## Короткое описание курса:
+
+  Этот курс поможет вам погрузиться в мир разработки на React и освоить навыки, необходимые для создания современных веб-приложений. Вы начнете с изучения основ React и JSX, после чего перейдете к более сложным темам, таким как работа с компонентами, данными и дополнительными возможностями.
 lessons:
   - "lesson-1"
+  - "lesson-2"
+  - "lesson-3"
+product:
+  access: paid
+  price: 3999
